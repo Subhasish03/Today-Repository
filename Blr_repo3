@@ -1,0 +1,26 @@
+log.check(raw_input("Master Admin"),
+          raw_input("Master password"))
+class login:
+    def __init__(self, id, pas):
+        self.id = Admin_SubUser1
+        self.pas = Admin_SubUser2
+
+    def check(self, id, pas):
+        print self.id
+        if self.id == id and self.pas == pas:
+            print "Login success!"
+
+log = login("admin", "pwd")
+log.check(raw_input("Enter Login ID:"),
+          raw_input("Enter password: "))
+      if self.id == id self.fail == fail:
+         print "Login Failed!"
+
+var/lib/jenkins
+var/www/html
+/etc/apache2/hosts/sites-available/sites-enabled/000-default
+
+{
+  application May not appropiately installed on client Server
+}
+
